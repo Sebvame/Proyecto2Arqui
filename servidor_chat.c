@@ -8,7 +8,7 @@
 #include <openssl/ssl.h>
 #include <openssl/err.h>
 
-#define PORT 8888
+#define PORT 10000
 #define BUFFER_SIZE 2048
 #define CERTIFICATE_FILE "server.crt"
 #define PRIVATE_KEY_FILE "server.key"
